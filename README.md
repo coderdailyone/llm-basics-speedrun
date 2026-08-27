@@ -5,7 +5,7 @@
 ## 目录结构
 
 - [`GLM5.3版教材/`](GLM5.3版教材/) — **由 GLM-5.3(智谱 Z.ai)撰写**,耗时 3 天完成。全套十章 + 课程总览,含类比图解与章末自测题
-- [`Claude版教材/`](Claude版教材/) — **由 Claude(Anthropic Opus 5)撰写**。全套十章,每章含正文、小结、中英术语表、思考题
+- [`Claude版教材/`](Claude版教材/) — **由 Claude(Anthropic Fable 5)撰写**。全套十章,每章含正文、小结、中英术语表、思考题
   1. [人工智能概述](Claude版教材/01-人工智能概述.md)
   2. [深度学习](Claude版教材/02-深度学习.md)
   3. [自然语言处理](Claude版教材/03-自然语言处理.md)
@@ -22,4 +22,4 @@
 | 版本 | 作者 | 完成度 |
 |---|---|---|
 | GLM-5.3 | 智谱 Z.ai GLM-5.3 旗舰模型 | ✅ 全套完成(总览 + 十章) |
-| Claude | Anthropic Claude Opus 5 | ✅ 全套完成(十章) |
+| Claude | Anthropic Claude Fable 5 | ✅ 全套完成(十章) |
